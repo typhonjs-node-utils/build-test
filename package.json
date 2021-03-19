@@ -1,7 +1,7 @@
 {
   "name": "@typhonjs-node-utils/build-test",
   "description": "Provides a single module collecting all build / test resources for TyphonJS modules.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "typhonrt",
   "maintainers": [
     {
@@ -10,7 +10,7 @@
       "url": "https://github.com/typhonrt"
     }
   ],
-  "devDependencies": {
+  "dependencies": {
     "@typhonjs-config/eslint-config": "^0.2.0",
     "c8": "^7",
     "chai": "^4",
