@@ -1,7 +1,7 @@
 {
   "name": "@typhonjs-node-utils/build-test",
   "description": "Provides a single module collecting all build / test resources for TyphonJS modules.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "typhonrt",
   "maintainers": [
     {
@@ -14,9 +14,11 @@
     "@typhonjs-config/eslint-config": "^0.2.0",
     "c8": "^7",
     "chai": "^4",
+    "chai-as-promised": "^7",
     "codecov": "^3",
     "eslint": "^7",
-    "mocha": "^8"
+    "mocha": "^8",
+    "strip-json-comments": "^3"
   },
   "files": [
     "/npm-shrinkwrap.json",
