@@ -1,7 +1,7 @@
 {
-  "name": "@typhonjs-node-utils/build-test",
+  "name": "@typhonjs-utils/build-test",
   "description": "Provides a single module collecting all build / test resources for TyphonJS modules.",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "author": "typhonrt",
   "maintainers": [
     {
@@ -16,6 +16,8 @@
     "chai": "^4",
     "chai-as-promised": "^7",
     "codecov": "^3",
+    "cross-env": "^7",
+    "cross-spawn": "^7",
     "eslint": "^7",
     "mocha": "^8",
     "strip-json-comments": "^3"
@@ -27,6 +29,7 @@
   "homepage": "https://github.com/typhonjs-node-utils/build-test",
   "keywords": [
     "typhonjs",
+    "utils",
     "build",
     "test"
   ],
