@@ -2,13 +2,9 @@
   "name": "@typhonjs-utils/build-test",
   "description": "Provides a single module collecting all build / test resources for TyphonJS modules.",
   "version": "0.1.1",
-  "author": "typhonrt",
-  "maintainers": [
-    {
-      "name": "Michael Leahy",
-      "email": "support@typhonjs.io",
-      "url": "https://github.com/typhonrt"
-    }
+  "author": "Michael Leahy <support@typhonjs.io> (https://github.com/typhonrt)",
+  "contributors": [
+    "Michael Leahy <support@typhonjs.io> (https://github.com/typhonrt)"
   ],
   "dependencies": {
     "@typhonjs-config/eslint-config": "^0.2.0",
@@ -34,7 +30,7 @@
     "build",
     "test"
   ],
-  "license": "MPL-2.0",
+  "license": "MIT",
   "bugs": "https://github.com/typhonjs-node-utils/build-test/issues",
-  "repository": "typhonjs-node-utils/build-test"
+  "repository": "github:typhonjs-node-utils/build-test"
 }
