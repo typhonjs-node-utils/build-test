@@ -16,5 +16,6 @@ Add as a `devDependency` and the following modules are added:
 - [cross-spawn@7.0.3](https://www.npmjs.com/package/cross-spawn)  
 - [dotenv@8.2.0](https://www.npmjs.com/package/dotenv) (added temporarily before @typhonjs-utils/env-loader is available)  
 - [eslint@7.22.0](https://www.npmjs.com/package/eslint)
+- [fs-extra@9.1.0](https://www.npmjs.com/package/fs-extra)
 - [mocha@8.3.2](https://www.npmjs.com/package/mocha)
 - [strip-json-comments@3.1.1](https://www.npmjs.com/package/strip-json-comments)
