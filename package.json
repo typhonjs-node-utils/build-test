@@ -1,7 +1,7 @@
 {
   "name": "@typhonjs-utils/build-test",
   "description": "Provides a single module collecting all build / test resources for TyphonJS modules.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Michael Leahy <support@typhonjs.io> (https://github.com/typhonrt)",
   "contributors": [
     "Michael Leahy <support@typhonjs.io> (https://github.com/typhonrt)"
